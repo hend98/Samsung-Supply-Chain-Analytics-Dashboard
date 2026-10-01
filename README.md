@@ -578,6 +578,10 @@ The focus was on combining **technical implementation with business thinking**, 
 
 ---
 
+👩‍💻 Developed By
+Hend Abdelnasser (https://www.linkedin.com/in/hend-abd-elnasser-095764218/)
+
+---
 ## 📌 Disclaimer
 
 This project uses a **publicly available training dataset** for educational and portfolio purposes.
