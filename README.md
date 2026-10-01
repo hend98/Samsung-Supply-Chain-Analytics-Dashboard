@@ -511,27 +511,33 @@ Samsung-Supply-Chain-Analytics/
 
 ## Landing Page
 
-[Landing Page](Screenshots/01_Landing_Page.png)
+<img width="515" height="290" alt="1  Landing Page" src="https://github.com/user-attachments/assets/fe0bd84a-25a3-48ea-8f96-4b2129ef0a37" />
+
 
 ## Executive Overview
 
-[Executive Overview](Screenshots/02_Executive_Overview.png)
+<img width="498" height="280" alt="2  Executive Overview" src="https://github.com/user-attachments/assets/8ff8b7ce-25d9-4d1d-8aaf-664e9e8329ad" />
+
 
 ## Supplier Details
 
-[Supplier Details](Screenshots/03_Supplier_Details.png)
+<img width="499" height="280" alt="3  Supplier Details" src="https://github.com/user-attachments/assets/1d4f3d6c-d54d-413d-b7c7-09564f7aa193" />
+
 
 ## Manufacturer Details
 
-[Manufacturer Details](Screenshots/04_Manufacturer_Details.png)
+<img width="499" height="279" alt="4  Manufacturer Details" src="https://github.com/user-attachments/assets/4723339a-be1b-469e-8794-6d18fb21b485" />
+
 
 ## Shipment Details
 
-[Shipment Details](Screenshots/05_Shipment_Details.png)
+<img width="498" height="281" alt="5  Shipment Details " src="https://github.com/user-attachments/assets/5ffd19d3-b599-4950-86d9-b997afa7d2dc" />
+
 
 ## Sales & Customers
 
-[Sales & Customers](Screenshots/06_Sales_Customers.png)
+<img width="499" height="280" alt="6  Sales   Customers" src="https://github.com/user-attachments/assets/73d35f98-2525-4410-ba12-5bfd2ec1ccad" />
+
 
 ---
 
